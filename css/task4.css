@@ -1,0 +1,21 @@
+
+
+.container1 {
+    background-color: red;
+    background-image: url('https://images.freeimages.com/images/large-previews/ce4/more-diamond-plate-textures-1173346.jpg'); /* Change to your image path */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 20px;
+    color: white;
+}
+
+.container2 {
+    background-color: blue;
+    background-image: url('https://images.freeimages.com/images/large-previews/ce4/more-diamond-plate-textures-1173346.jpg'); /* Change to your image path */
+    background-repeat: repeat;
+    background-position: top left;
+    background-size: contain;
+    padding: 20px;
+    color: white;
+}

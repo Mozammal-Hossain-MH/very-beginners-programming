@@ -1,0 +1,23 @@
+/* ALIGNMENT */
+h1{
+    text-align: center;
+}
+
+
+.list{
+    /* TEXT COLOR */
+    color: red;
+
+    /* FONT FAMILY */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* FONT SIZE */
+.item2{
+    font-size: 30px;
+}
+
+/* FONT STYLE */
+.item3{
+    font-style: italic;
+}

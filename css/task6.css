@@ -1,0 +1,19 @@
+h2 {
+    display: none; /* The h2 will not be displayed */
+}
+
+p {
+    visibility: hidden; /* The p element will be hidden but still take up space */
+}
+
+img {
+    display: inline; /* The img will behave like an inline element */
+}
+
+div {
+    display: block; /* The div will be a block-level element (default behavior) */
+}
+
+button {
+    display: inline-block; /* The button will act as an inline-block element */
+}
